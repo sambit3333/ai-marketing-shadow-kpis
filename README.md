@@ -32,7 +32,6 @@ These are mapped to the **16 Ps of Digital Marketing**, connecting emotion, cult
 
 - `shadow-kpi-prompts.txt` – Full logic & GPT prompt flow
 - `shadow-kpi-framework.png` – Visual model of the 10 KPIs
-- `examples/` – Sample analysis outputs and use cases
 
 ## 🚀 Use Cases
 
