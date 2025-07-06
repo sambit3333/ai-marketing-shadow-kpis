@@ -45,7 +45,7 @@ These are mapped to the **16 Ps of Digital Marketing**, connecting emotion, cult
 
 **Sambit Singh**  
 Business & Analytics Leader | CVM, FP&A, Product | AI Strategist  
-[LinkedIn](https://www.linkedin.com/in/sambitsingh/) | sambit@yourmail.com
+https://www.linkedin.com/in/sambitsingh60126236367/ | sambitsinghofficial@gmail.com
 
 ---
 > “Not everything that counts can be measured — but now, it can be *guided*.”  
